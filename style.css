@@ -116,3 +116,13 @@ ul li span:hover
 {
     background: #EDEEF0;;
 }
+
+.footer 
+{ 
+    padding-top: 15px; 
+} 
+
+span 
+{ 
+    text-decoration: underline; 
+}
